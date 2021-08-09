@@ -1,0 +1,12 @@
+body {
+    font-family: Montserrat;
+    margin: 0px;
+}
+span {
+    font-family: Montserrat;
+}
+
+.MuiDrawer-paper {
+    background-color: #ffffff !important;
+    border-radius: 0px 50px 0px 50px;
+}
